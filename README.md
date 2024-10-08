@@ -37,7 +37,7 @@ This repository contains various Python projects that showcase fundamental progr
 
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/python-projects.git
+   git clone (https://github.com/sakshinkn007/CodSoft)
    
 2. Navigate to the project folder you want to run:
    cd python-projects/todo-list
